@@ -14,7 +14,7 @@ Trading semicolons for scatter plots, I’m a CS grad who thrives on data puzzle
 
 ## 🔨 Languages and Tools 
 
-<table>
+<table >
 <tr>
     <td><img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/></td>
     <td><img width="48" height="48" src="https://img.icons8.com/fluency/48/pytorch.png" alt="pytorch"/></td>
@@ -25,9 +25,14 @@ Trading semicolons for scatter plots, I’m a CS grad who thrives on data puzzle
 </tr>
 </table>
 
-## 📊 Github Stats
+## Currently, I'm
 
-[![Shakleen's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakleen&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+* Competing in a Kaggle Competition called [**Automated Essay Scoring 2.0**](https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2/)
+* Preparing for Databricks Machine Learning Associate Certification by Learning Spark and MLFlow
+
+<!-- ## 📊 Github Stats -->
+
+<!-- [![Shakleen's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakleen&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakleen&layout=compact&hide=dart,&theme=tokyonight) -->
 
