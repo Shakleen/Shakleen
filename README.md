@@ -1,10 +1,10 @@
 # Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Shakleen Ishfar
 
-Trading semicolons for scatter plots, I’m a CS grad who thrives on data puzzles!
+An **ex-Samsung SWE** with **2+ years of working experience** with AI/ML technologies. Currently, pursuing **Masters in Data Science** at the University of Rochester, **graduating in December 2024**.
 
-<a href='https://www.linkedin.com/in/shakleen-ishfar/'><img alt="linkedin" src="assets/linkedin.svg" height='18px'/></a> 
-<a href='https://www.kaggle.com/ishfar'><img alt="kaggle" src="assets/kaggle.svg" height='18px'/></a>
-<a href='https://www.hackerrank.com/profile/shakleenishfar'><img alt="kaggle" src="assets/hackerrank.svg" height='18px'/></a>
+[![Static Badge](https://img.shields.io/badge/LinkedIn-Blue?style=flat&logo=linkedin&color=gray)](https://www.linkedin.com/in/shakleen-ishfar/)
+[![Static Badge](https://img.shields.io/badge/HackerRank-Blue?style=flat&logo=hackerrank&color=gray)](https://www.kaggle.com/ishfar)
+[![Static Badge](https://img.shields.io/badge/Kaggle-Blue?style=flat&logo=kaggle&color=gray)](https://www.hackerrank.com/profile/shakleenishfar)
 
 ## 🪪 More about me
 
