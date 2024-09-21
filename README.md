@@ -27,8 +27,7 @@ An **ex-Samsung SWE** with **2+ years of working experience** with AI/ML technol
 
 ## Currently, I'm
 
-* Competing in a Kaggle Competition called [**Automated Essay Scoring 2.0**](https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2/)
-* Preparing for Databricks Machine Learning Associate Certification by Learning Spark and MLFlow
+* Competing in a Kaggle Competition called [**Eedi - Mining Misconceptions in Mathematics**](https://www.kaggle.com/competitions/eedi-mining-misconceptions-in-mathematics)
 
 <!-- ## 📊 Github Stats -->
 
