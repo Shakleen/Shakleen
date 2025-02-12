@@ -1,6 +1,6 @@
 # Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Shakleen Ishfar
 
-An **ex-Samsung SWE** with **2+ years of working experience** with AI/ML technologies. Currently, pursuing **Masters in Data Science** at the University of Rochester, **graduating in December 2024**.
+An **ex-Samsung SWE** with **2+ years of working experience** with AI/ML technologies. Graduated from the University of Rochester with a **Masters in Data Science** in December 2024.
 
 [![Static Badge](https://img.shields.io/badge/LinkedIn-Blue?style=flat&logo=linkedin&color=gray)](https://www.linkedin.com/in/shakleen-ishfar/)
 [![Static Badge](https://img.shields.io/badge/HackerRank-Blue?style=flat&logo=hackerrank&color=gray)](https://www.kaggle.com/ishfar)
@@ -9,8 +9,8 @@ An **ex-Samsung SWE** with **2+ years of working experience** with AI/ML technol
 ## 🪪 More about me
 
 * Originally from Bangladesh 🇧🇩, currently in United States 🇺🇸
-* Currently pursuing my Masters in Data Science at University of Rochester, graduating in December 2024.
 * Actively compete in Kaggle competitions
+* Natural Language Processing enthusiast. Spend my time working on projects focused on BERT-based models and LLMs
 
 ## 🔨 Languages and Tools 
 
@@ -24,14 +24,4 @@ An **ex-Samsung SWE** with **2+ years of working experience** with AI/ML technol
     <td><img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/></td>
 </tr>
 </table>
-
-## Currently, I'm
-
-* Competing in a Kaggle Competition called [**Eedi - Mining Misconceptions in Mathematics**](https://www.kaggle.com/competitions/eedi-mining-misconceptions-in-mathematics)
-
-<!-- ## 📊 Github Stats -->
-
-<!-- [![Shakleen's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakleen&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakleen&layout=compact&hide=dart,&theme=tokyonight) -->
 
